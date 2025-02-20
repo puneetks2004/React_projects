@@ -14,3 +14,5 @@ A React-based Password Generator that creates secure passwords with customizable
 
 
 Images:
+Generating eandom password
+![Image](https://github.com/user-attachments/assets/516981bf-acd6-4670-b765-01faeb5d279f)
